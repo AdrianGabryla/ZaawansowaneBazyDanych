@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [Student_448]
+    AUTHORIZATION [dbo];
+
